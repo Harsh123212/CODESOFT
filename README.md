@@ -7,7 +7,7 @@ Welcome to the Internship Projects repository! This collection of projects showc
 Project Descriptions<br>
 Simple Calculator<br>
 
-The Simple Calculator project is a web-based calculator application built using HTML, CSS, and JavaScript. This interactive tool allows users to perform basic arithmetic operations with a clean and user-friendly interface.
+The Simple Calculator project is a web-based calculator application built using HTML, CSS, and JavaScript. This interactive tool allows users to perform basic arithmetic operations with a clean and user-friendly interface.<br>
 Portfolio Web Page<br>
 
 The Portfolio Web Page project features a personal portfolio website developed using HTML for structure, CSS for styling, and JavaScript for interactivity. This web page serves as a showcase of skills, projects, and experiences gained during the internship.<br>
